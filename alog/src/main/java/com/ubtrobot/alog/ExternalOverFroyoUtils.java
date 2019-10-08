@@ -27,9 +27,9 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * @version V1.0
- * @Title CHExternalOverFroyoUtils
- * @Package com.changhong.util.cache
- * @Description 缓存的工具类, Android 2.2以上版本使用
+ *  CHExternalOverFroyoUtils
+ *  com.changhong.util.cache
+ *  缓存的工具类, Android 2.2以上版本使用
  */
 @TargetApi(9)
 public class ExternalOverFroyoUtils {
